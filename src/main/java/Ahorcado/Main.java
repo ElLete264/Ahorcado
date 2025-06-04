@@ -2,6 +2,6 @@ package Ahorcado;
 
 public class Main {
     public static void main(String[] args) {
-        new Ahorcado().iniciar();
+        new Ahorcado().iniciar(); // Ejecuta el juego
     }
 }
