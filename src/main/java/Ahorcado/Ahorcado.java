@@ -1,9 +1,16 @@
 package Ahorcado;
 
+import java.util.Scanner;
+import java.util.Random;
+
 public class Ahorcado {
-        public void iniciar() {
-            System.out.println("¡El juego ha empezado!");
-            // resto de código...
-        }
+
+    public static void iniciar() {
+        Ahorcado juego = new Ahorcado();
+        juego.jugar();
     }
 
+    public void jugar() {
+
+    }
+}
